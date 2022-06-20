@@ -4,6 +4,11 @@
         "vector": "cpp",
         "utility": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "unordered_map": "cpp"
     }
 }
