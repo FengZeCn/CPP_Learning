@@ -41,7 +41,7 @@ class Solution{
         }
 };
 */
-
+//备注
 //尝试使用hash table的方法解决问题
 class Solution
 {
